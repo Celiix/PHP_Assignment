@@ -1,5 +1,9 @@
 # PHP_Assignment/ DDB (Data Driven Website)
 
+Software used - Netbeans
+
+Link to website - http://sportsgearwebsite.epizy.com/index.php
+
 USER PERSPECTIVE
 -------------------------------------------------------------------------------------------------------------
 This PHP sports website project provides a platform for users to browse and select from a variety of sports gear, add items to their shopping cart, view and modify their cart, and complete checkout. Additionally, users can register and log in to the website, allowing them to save items in their cart for future use. In case of any issues, users can communicate with the website's admins via the contact page. The website's user-friendly interface also enables easy login and logout.
