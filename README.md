@@ -2,12 +2,16 @@
 
 USER PERSPECTIVE
 -------------------------------------------------------------------------------------------------------------
-Here is a PHP project of a sports website. The use of the website only is to showcase the different sports gears for users to add, view items in shopping carts, delete items in shopping cart and chekout. Another feature that the user can do on the website is to register/login so all items that are in the cart will be saved, along with a way to communicate the websites admins is through the contact page if any issues were to occur. The user can easily login and out of their account. 
+This PHP sports website project provides a platform for users to browse and select from a variety of sports gear, add items to their shopping cart, view and modify their cart, and complete checkout. Additionally, users can register and log in to the website, allowing them to save items in their cart for future use. In case of any issues, users can communicate with the website's admins via the contact page. The website's user-friendly interface also enables easy login and logout.
 
 ADMIN PERSPECTIVE
 -------------------------------------------------------------------------------------------------------------
-The difference between the user's perspective and the admin's perspective is extra feature of the admin dashboard. The dashboard area allows the admmin to view all members accosicated to the site such as their email, phone number and name. Admins have the authority to add or remove users from the site, another feature that admin can investigate into is what queries has the users asked on the site. The role of the admin is to also keep maintenance of the sports gear website, they have the ability to add, remove and alter products at anytime when nesseracy. Products that have been added to the website will automatically be added to the database. 
+From the admin's perspective, the website's dashboard area provides additional tools for managing users and maintaining the website. Admins can view all registered members' information, such as their email, phone number, and name, and have the authority to add or remove users as necessary. The dashboard also allows admins to investigate user queries on the site. Admins are responsible for maintaining the sports gear website and can add, remove, and alter products at any time, with new products automatically added to the database.
 
 NAVIGATE TO SEE CODE
--------------------------------------------------------------------------------------------------------------php_Assignment\sports-website
 
+Follow this to navigate to see PHP files - 
+php_Assignment\sports-website
+
+SCREENSHOTS OF WEBSITE
+-------------------------------------------------------------------------------------------------------------
