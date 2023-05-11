@@ -2,7 +2,6 @@
 
 Software used - Netbeans
 
-Link to website - http://sportsgearwebsite.epizy.com/index.php
 
 USER PERSPECTIVE
 -------------------------------------------------------------------------------------------------------------
