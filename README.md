@@ -2,6 +2,16 @@
 
 Software used - Netbeans
 
+To access you need:
+---------------------------------------------------------
+1. Have wamp on your device and activate it
+2. Download all files and folders from github and save it in your www folder
+3. Open local host and type localhost/php_Assignment/sports-website/index.php
+
+Admin Login
+--------------------------------
+Email - admin@gmail.com
+Password - 12345
 
 USER PERSPECTIVE
 -------------------------------------------------------------------------------------------------------------
